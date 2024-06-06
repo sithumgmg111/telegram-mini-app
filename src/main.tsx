@@ -39,7 +39,7 @@ const root = ReactDOM.createRoot(
 root.render(
     <React.StrictMode>
         <Provider store={store}>
-            <TonConnectUIProvider manifestUrl="https://softstack.github.io/telegram-mini-app/tonconnect-manifest.json">
+            <TonConnectUIProvider manifestUrl="https://sithumgmg111.github.io/telegram-mini-app/tonconnect-manifest.json">
                 <App />
             </TonConnectUIProvider>
         </Provider>

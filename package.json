@@ -19,6 +19,7 @@
         "@types/color-thief-node": "^1.0.4",
         "@types/react-router-dom": "^5.3.3",
         "@vitejs/plugin-basic-ssl": "^1.1.0",
+        "@vkruglikov/react-telegram-web-app": "^2.1.9",
         "@walletconnect/client": "^1.8.0",
         "@walletconnect/core": "^2.12.1",
         "@walletconnect/types": "^2.12.2",
